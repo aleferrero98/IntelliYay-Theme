@@ -3,7 +3,11 @@
   "displayName": "IntelliYay Theme",
   "description": "IntelliJ-like color theme for VSCode",
   "version": "0.0.1",
-  "publisher": "Alejandro Ferrero",
+  "publisher": "ale-ferrero",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aleferrero98/IntelliYay-Theme.git"
+  },
   "icon": "images/icon.png",
   "galleryBanner": {
     "color": "#1E1F22",
