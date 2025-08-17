@@ -25,7 +25,7 @@
 		"activityBar.activeBackground": "#2C2E2F",
 		"activityBar.activeBorder": "#2C2E2F",
 
-		"editorGutter.background": "#313335",
+		"editorGutter.background": "#1E1F22",
 
 		"terminal.ansiBlack": "#FFFFFF",
 		"terminal.ansiBlue": "#5394EC",
@@ -61,18 +61,18 @@
 
 		"panel.background": "#3C3F41",
 		"titleBar.activeBackground": "#3C3F41",
-		"titleBar.inactiveBackground": "#3C3F41",
+		"titleBar.inactiveBackground": "#3D3F41",
 		"menu.background": "#3C3F41",
 		"activityBar.background": "#3C3F41",
-		"statusBar.background": "#3C3F41",
+		"statusBar.background": "#2B2D30",
 		"statusBar.debuggingBackground": "#3C3F41",
 		"statusBar.noFolderBackground": "#3C3F41",
 		"sideBarSectionHeader.background": "#3C3F41",
 		"editorGroupHeader.tabsBackground": "#3C3F41",
 		"editorGroupHeader.noTabsBackground": "#3C3F41",
-		"breadcrumb.background": "#3C3F41",
-		"sideBar.background": "#3C3F41",
-		"tab.inactiveBackground": "#3C3F41",
+		"breadcrumb.background": "#1E1F22",
+		"sideBar.background": "#2B2D30",
+		"tab.inactiveBackground": "#1E1F22",
 		"tab.border": "#3C3F41",
 		"terminal.border": "#3C3F41",
 
@@ -136,7 +136,7 @@
 			],
 			"settings": {
 				"foreground": "#629755",
-				"fontStyle": "italic bold underline"
+				"fontStyle": "italic"
 			}
 		},
 		{
@@ -255,7 +255,7 @@
 				"storage.type.annotation.java"
 			],
 			"settings": {
-				"foreground": "#B3AE60"
+				"foreground": "#B2AD60"
 			}
 		},
 		{
@@ -263,7 +263,7 @@
 				"comment.block.javadoc.java variable.parameter.java"
 			],
 			"settings": {
-				"foreground": "#8A653B"
+				"foreground": "#A9B7C6"
 			}
 		},
 		{
@@ -318,7 +318,7 @@
 				"constant.numeric"
 			],
 			"settings": {
-				"foreground": "#6897BB"
+				"foreground": "#2CABB8"
 			}
 		},
 		{
@@ -332,7 +332,7 @@
 				"string.unquoted.java-properties"
 			],
 			"settings": {
-				"foreground": "#6A8759"
+				"foreground": "#6AAB73"
 			}
 		}
 	],
@@ -348,8 +348,8 @@
 			"fontStyle": "italic bold underline"
 		},
 		"modifier:java": "#CC7832",
-		"annotation:java": "#B3AE60",
-		"typeParameter:java": "#507874",
+		"annotation:java": "#B2AD60",
+		"typeParameter:java": "#16BAAC",
 		"*.constructor.declaration:java": "#57A8F5",
 		"function.static:java": { "fontStyle": "italic" },
 		"function.declaration:java": {
@@ -361,15 +361,25 @@
 			"foreground": "#57A8F5",
 			"fontStyle": ""
 		},
-		"property:java": "#9876AA",
+		"method.declaration.unused:java": {
+			"foreground": "#6F737A",
+			"fontStyle": ""
+		},
+		"property:java": "#C67DBB",
 		"property.static:java": { "fontStyle": "italic"	},
+		"property.unused:java": {
+			"foreground": "#6F737A",
+			"fontStyle": ""
+		},
 		"enumMember:java": {
-			"foreground": "#9876AA",
+			"foreground": "#C67DBB",
 			"fontStyle": "italic"
 		},
 		"*.documentation": {
 			"fontStyle": "italic"
 		},
-		"parameter.documentation": "#8A653B"
+		"parameter.documentation": "#8A653B",
+		"comment.line.todo": "#8BB23C",
+		"comment.block.todo": "#8BB23C"
 	}
 }
