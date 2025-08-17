@@ -2,6 +2,7 @@
   "name": "intelliyay-theme",
   "displayName": "IntelliYay Theme",
   "description": "IntelliJ-like color theme for VSCode",
+  "author": "aleferrero98 <alefacuferrero@gmail.com>",
   "version": "0.0.1",
   "publisher": "ale-ferrero",
   "repository": {
@@ -14,11 +15,31 @@
     "theme": "dark"
   },
   "engines": {
-    "vscode": "^1.103.0"
+    "vscode": "^1.99.0"
   },
   "categories": [
     "Themes"
   ],
+  "keywords": [
+		"java",
+		"intellij",
+		"intellij-idea",
+		"darcula",
+		"dark-theme",
+		"color-theme",
+		"semantic-highlighting",
+		"jetbrains",
+		"ide-theme",
+		"java-development",
+		"programming",
+		"developer-tools",
+		"code-editor",
+		"visual-studio-code",
+		"vscode",
+		"theme",
+		"color-scheme",
+		"syntax-highlighting"
+	],
   "contributes": {
     "themes": [
       {
