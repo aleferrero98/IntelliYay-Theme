@@ -3,6 +3,12 @@
   "displayName": "IntelliYay Theme",
   "description": "IntelliJ-like color theme for VSCode",
   "version": "0.0.1",
+  "publisher": "Alejandro Ferrero",
+  "icon": "images/icon.png",
+  "galleryBanner": {
+    "color": "#1E1F22",
+    "theme": "dark"
+  },
   "engines": {
     "vscode": "^1.103.0"
   },

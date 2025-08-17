@@ -1,5 +1,9 @@
 # IntelliYay Theme
 
+<div align="center">
+  <img src="images/icon.png" alt="IntelliYay Theme Icon" width="128" height="128">
+</div>
+
 A Visual Studio Code extension that brings the familiar and beloved IntelliJ IDEA dark theme to your VSCode editor, specifically optimized for Java development.
 
 ## 🎨 Features
