@@ -45,7 +45,7 @@
       {
         "label": "IntelliYay Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/IntelliYay Theme-color-theme.json"
+        "path": "./themes/IntelliYay-color-theme.json"
       }
     ]
   }
