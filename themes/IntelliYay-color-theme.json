@@ -63,7 +63,7 @@
 		"titleBar.activeBackground": "#3C3F41",
 		"titleBar.inactiveBackground": "#3D3F41",
 		"menu.background": "#3C3F41",
-		"activityBar.background": "#3C3F41",
+		"activityBar.background": "#1E1F22",
 		"statusBar.background": "#2B2D30",
 		"statusBar.debuggingBackground": "#3C3F41",
 		"statusBar.noFolderBackground": "#3C3F41",
@@ -77,10 +77,10 @@
 		"terminal.border": "#1E1F22",
 
 		"tab.activeBackground": "#1E1F22",
-		"tab.hoverBackground": "#333537",
 		"tab.activeForeground": "#BBBBBB",
 		"tab.inactiveForeground": "#BBBBBB",
 		"tab.activeBorder": "#57A8F5",
+		"tab.hoverForeground": "#FFFFFF",
 
 		"editorGroupHeader.tabsBorder": "#323232",
 		"panel.border": "#323232",
