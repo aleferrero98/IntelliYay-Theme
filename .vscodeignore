@@ -1,6 +1,7 @@
 .vscode/**
 .vscode-test/**
 .gitignore
+.gitattributes
 vsc-extension-quickstart.md
 *.vsix
-mapping-colours.txt
+*.txt
